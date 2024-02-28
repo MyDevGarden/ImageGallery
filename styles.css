@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "playfair";
+    src: url(fonts/PlayfairDisplay-Regular.ttf);
+}
+
+:root{
+   
+        font-family: "playfair", sans-serif;
+        
+      
+    min-height: 100vh;
+    max-width: 1200px;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+
+body{
+    margin: 0px;
+    background-color: white;
+    border: 1px solid #ddd;
+}
+
